@@ -1,2 +1,2 @@
 # Data_Science2022
-Repository for KamiLimu's Cohort7 mentees taking the Data Science ICT Track
+Contains all the projects and assignments for the Data Science course at KamiLimu
